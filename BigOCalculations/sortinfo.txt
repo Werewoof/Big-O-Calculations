@@ -1,0 +1,98 @@
+Big-O for Insertion sort: O(n)^2
+Expected value for n (Insertion sort) (size = 50): 2500
+Calculated value for n (Insertion sort) (size = 50): 593
+
+Big-O for Quick sort: O(n)^2
+Expected value for n (Quick sort) (size = 50): 2500
+Calculated value for n (Quick sort) (size = 50): 60
+
+Big-O for Bubble sort: O(n)^2
+Expected value for n (Bubble sort) (size = 50): 2500
+Calculated value for n (Bubble sort) (size = 50): 593
+
+Big-O for Selection sort: O(n)^2
+Expected value for n (Selection sort) (size = 50): 2500
+Calculated value for n (Selection sort) (size = 50): 156
+
+Big-O for Shell sort: O(n(log(n))^2)
+Expected value for n (Shell sort) (size = 50): 765.196
+Calculated value for n (Shell sort) (size = 50): 248
+
+
+
+
+
+
+Big-O for Insertion sort: O(n)^2
+Expected value for n (Insertion sort) (size = 5000): 25000000
+Calculated value for n (Insertion sort) (size = 5000): 6227910
+
+Big-O for Quick sort: O(n)^2
+Expected value for n (Quick sort) (size = 5000): 25000000
+Calculated value for n (Quick sort) (size = 5000): 4049
+
+Big-O for Bubble sort: O(n)^2
+Expected value for n (Bubble sort) (size = 5000): 25000000
+Calculated value for n (Bubble sort) (size = 5000): 6227910
+
+Big-O for Selection sort: O(n)^2
+Expected value for n (Selection sort) (size = 5000): 25000000
+Calculated value for n (Selection sort) (size = 5000): 30549
+
+Big-O for Shell sort: O(n(log(n))^2)
+Expected value for n (Shell sort) (size = 5000): 362712.899
+Calculated value for n (Shell sort) (size = 5000): 2137940
+
+
+
+
+
+
+Big-O for Insertion sort: O(n)^2
+Expected value for n (Insertion sort) (size = 100000): 10000000000
+Calculated value for n (Insertion sort) (size = 100000): 2491463643
+
+Big-O for Quick sort: O(n)^2
+Expected value for n (Quick sort) (size = 100000): 10000000000
+Calculated value for n (Quick sort) (size = 100000): 98986
+
+Big-O for Bubble sort: O(n)^2
+Expected value for n (Bubble sort) (size = 100000): 10000000000
+Calculated value for n (Bubble sort) (size = 100000): 2491463643
+
+Big-O for Selection sort: O(n)^2
+Expected value for n (Selection sort) (size = 100000): 10000000000
+Calculated value for n (Selection sort) (size = 100000): 637797
+
+Big-O for Shell sort: O(n(log(n))^2)
+Expected value for n (Shell sort) (size = 100000): 13254745.276
+Calculated value for n (Shell sort) (size = 100000): 833583970
+
+
+
+
+
+
+Big-O for Binary Tree: O(log(n))
+Expected value for n (Binary Tree) (size = 50): 3.91202
+Calculated value for n (Binary Tree) (size = 50): 285
+
+Big-O for Binary Tree: O(log(n))
+Expected value for n (Binary Tree) (size = 5000): 8.51719
+Calculated value for n (Binary Tree) (size = 5000): 76249
+
+Big-O for Binary Tree: O(log(n))
+Expected value for n (Binary Tree) (size = 100000): 11.5129
+Calculated value for n (Binary Tree) (size = 100000): 6344724
+
+
+
+
+
+
+
+Value of n after resorting Insertion sort (size = 5000): 4
+Value of n after resorting Quick sort (size = 5000): 4985
+Value of n after resorting Bubble sort (size = 5000): 0
+Value of n after resorting Selection sort (size = 5000): 0
+Value of n after resorting Shell sort (size = 5000): 0

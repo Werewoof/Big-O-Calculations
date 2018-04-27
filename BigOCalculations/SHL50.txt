@@ -1,0 +1,27 @@
+
+Sorted array without random strings:
+
+34, 60, 82, 114, 135, 163, 186, 190, 190, 199, 
+214, 220, 220, 240, 252, 272, 305, 334, 350, 357, 
+375, 382, 420, 431, 433, 443, 457, 466, 480, 485, 
+503, 528, 545, 574, 620, 682, 683, 707, 806, 819, 
+836, 854, 882, 885, 888, 895, 907, 923, 958, 969, 
+
+
+
+
+
+
+
+
+
+
+
+
+Sorted array with random strings:
+
+34xxsot, 60edwcf, 82gyfth, 114pkzwk, 135yxyel, 163qcjes, 186icsbs, 190lfvjk, 190cpihi, 199rwsqs, 
+214epsft, 220dxxob, 220rxfjy, 240xwfvf, 252rxwbf, 272etdzl, 305yfcqk, 334xvhuk, 350lmhqx, 357hqwol, 
+375bgkaj, 382peevf, 420qtnsl, 431xsghm, 433suybm, 443wkcsz, 457pvhav, 466qrcvm, 480jnfwh, 485qwzzf, 
+503mtzmx, 528lkhoc, 545ifaph, 574xizbd, 620nlstj, 682zlfzm, 683mnilz, 707fxkmn, 806ovsom, 819coubp, 
+836zocrj, 854orxvs, 882jihrt, 885gwqsl, 888fhiax, 895uclrd, 907dqthk, 923dxdat, 958vlbcd, 969wkbpd, 

@@ -1,0 +1,24 @@
+In the rubric, we were told that the Big-O of Shell sort was O(n ^1.25). No 
+other sources corroborated this, 
+but rather, other sources said it was the 
+average of Shell sort. The time didn't begin to agree with our 
+calculations 
+until we committed that Big-O of Shell Sort was O(n(log(n))^2). This was difficult, because it 
+seems very few sources agree what the real 
+Big-O is, so we picked one. The operations for Binary Tree did not 
+seem to 
+match up well either. Exactly how the number of iterations was to be counted 
+was not made perfectly 
+clear, and based on the results given back from the 
+routine, not helpful in seeing how the Big-O of a Binary 
+Tree is supposedly 
+O(log(n)). Besides the initial trouble with Shell sort and Binary Tree, all 
+other operations 
+seemed agreeable. Quick sort seemed unanimously to be the 
+fastest of all of them, regardless of size. We were 
+surprised to find that,
+ on an already sorted list, the number of iterations of n was not 0. We 
+noticed that 
+shell sort began to overshoot its Big-O value with the array 
+of 100000. So indeed, data size did a make a 
+difference in that case.
